@@ -69,7 +69,3 @@ This project generates verses inspired by classical poets in real time based on 
 ---
 
 
-
-```text
-📝 Generated Poetry:
-muj se pehli se mohabbat sunā hai hī paanī haiñ kaam husn jis ye se ko ki nahīñ gayā maiñ āzād thī kī nigāh bhī supurd aur 'farāz' firāq e vo jāntā uchatte
