@@ -15,7 +15,19 @@ This project generates verses inspired by classical poets in real time based on 
 - 🌐 **Deployment Ready** – Can be easily deployed as a **Streamlit app** for real-time text generation.
 
 ---
+## 🖼 Project Screenshots
 
+<p align="center">
+  <img src="./images/2.jpg" alt="Poetry Generator Screenshot 1" width="400" />
+  <img src="./images/3.jpg" alt="Poetry Generator Screenshot 2" width="400" />
+</p>
+
+<p align="center">
+  <img src="./images/4.jpg" alt="Poetry Generator Screenshot 3" width="400" />
+  <img src="./images/5.jpg" alt="Poetry Generator Screenshot 4" width="400" />
+</p>
+
+---
 ## 🛠️ Tech Stack
 
 - **Python 3.11+**
@@ -56,7 +68,7 @@ This project generates verses inspired by classical poets in real time based on 
 
 ---
 
-## 📸 Screenshot
+
 
 ```text
 📝 Generated Poetry:
