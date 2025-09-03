@@ -18,12 +18,12 @@ This project generates verses inspired by classical poets in real time based on 
 ## 🖼 Project Screenshots
 
 <p align="center">
-  <img src="./images/2.jpg" alt="Poetry Generator Screenshot 1" width="400" />
+  <img src="./images/4.jpg" alt="Poetry Generator Screenshot 1" width="400" />
   <img src="./images/3.jpg" alt="Poetry Generator Screenshot 2" width="400" />
 </p>
 
 <p align="center">
-  <img src="./images/4.jpg" alt="Poetry Generator Screenshot 3" width="400" />
+  <img src="./images/2.jpg" alt="Poetry Generator Screenshot 3" width="400" />
   <img src="./images/5.jpg" alt="Poetry Generator Screenshot 4" width="400" />
 </p>
 
